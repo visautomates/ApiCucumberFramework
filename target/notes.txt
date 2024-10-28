@@ -1,0 +1,3 @@
+Syntax to run the code in maven 
+
+// not working  mvn test -Dcucumber.options="--tags @Addplace"  - this can be used for reg sanity and more
